@@ -9,7 +9,6 @@
 Dự án này là một **Data Pipeline & Interactive Dashboard** mô phỏng quy trình xử lý dữ liệu lớn (Big Data) trong lĩnh vực bán lẻ (Retail). 
 Mục tiêu của dự án là xây dựng một hệ thống hoàn chỉnh từ khâu trích xuất, làm sạch dữ liệu (ETL), trực quan hóa (Data Visualization) cho đến ứng dụng Trí tuệ nhân tạo (Machine Learning) để phân cụm khách hàng, giúp doanh nghiệp đưa ra các quyết định Marketing hiệu quả.
 
-👉 **[Link xem Demo trực tuyến]** *(Nếu bạn có deploy lên Streamlit Cloud, hãy chèn link vào đây, nếu không hãy xóa dòng này)*
 
 ---
 
